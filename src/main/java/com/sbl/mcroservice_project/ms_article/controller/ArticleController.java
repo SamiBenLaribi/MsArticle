@@ -1,10 +1,9 @@
-package com.seddik.mcroservice_project.ms_article.controller;
+package com.sbl.mcroservice_project.ms_article.controller;
 
-import com.seddik.mcroservice_project.ms_article.entities.Article;
-import com.seddik.mcroservice_project.ms_article.service.ArticleServiceImp;
-import com.seddik_commons.dto.ArticleDto;
+import com.sbl.mcroservice_project.ms_article.entities.Article;
+import com.sbl.mcroservice_project.ms_article.service.ArticleServiceImp;
+import com.sbl_commons.dto.ArticleDto;
 import lombok.RequiredArgsConstructor;
-import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;

@@ -1,13 +1,11 @@
-package com.seddik.mcroservice_project.ms_article.service;
+package com.sbl.mcroservice_project.ms_article.service;
 
-import com.seddik.mcroservice_project.ms_article.entities.Article;
-import com.seddik.mcroservice_project.ms_article.feignClient.StockFeignClient;
-import com.seddik.mcroservice_project.ms_article.mapper.ArticleMapper;
-import com.seddik.mcroservice_project.ms_article.repository.ArticleRepository;
-import com.seddik_commons.dto.ArticleDto;
-import com.seddik_commons.dto.StockDto;
+import com.sbl.mcroservice_project.ms_article.entities.Article;
+import com.sbl.mcroservice_project.ms_article.mapper.ArticleMapper;
+import com.sbl.mcroservice_project.ms_article.repository.ArticleRepository;
+import com.sbl_commons.dto.ArticleDto;
+import com.sbl_commons.dto.StockDto;
 import lombok.RequiredArgsConstructor;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
 import org.springframework.util.ReflectionUtils;

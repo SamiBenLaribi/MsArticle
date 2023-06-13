@@ -1,8 +1,8 @@
-package com.seddik.mcroservice_project.ms_article.mapper;
+package com.sbl.mcroservice_project.ms_article.mapper;
 
-import com.seddik.mcroservice_project.ms_article.entities.Article;
-import com.seddik_commons.dto.ArticleDto;
-import com.seddik_commons.dto.StockDto;
+import com.sbl.mcroservice_project.ms_article.entities.Article;
+import com.sbl_commons.dto.ArticleDto;
+import com.sbl_commons.dto.StockDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

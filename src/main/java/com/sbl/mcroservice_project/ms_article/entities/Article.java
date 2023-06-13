@@ -1,6 +1,7 @@
-package com.seddik.mcroservice_project.ms_article.entities;
+package com.sbl.mcroservice_project.ms_article.entities;
 
-import com.seddik_commons.entities.BaseEntity;
+
+import com.sbl_commons.entities.BaseEntity;
 import lombok.*;
 
 

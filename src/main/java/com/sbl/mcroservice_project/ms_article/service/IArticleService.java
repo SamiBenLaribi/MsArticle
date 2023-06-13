@@ -1,9 +1,9 @@
-package com.seddik.mcroservice_project.ms_article.service;
+package com.sbl.mcroservice_project.ms_article.service;
 
 
 
-import com.seddik.mcroservice_project.ms_article.entities.Article;
-import com.seddik_commons.dto.ArticleDto;
+import com.sbl.mcroservice_project.ms_article.entities.Article;
+import com.sbl_commons.dto.ArticleDto;
 
 import java.util.List;
 import java.util.Map;

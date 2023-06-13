@@ -8,7 +8,7 @@
         <version>2.7.12</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.seddik.mcroservice_project</groupId>
+    <groupId>com.sbl.mcroservice_project</groupId>
     <artifactId>ms_article</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ms_article</name>
@@ -48,7 +48,7 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.seddik_commons</groupId>
+            <groupId>com.sbl_commons</groupId>
             <artifactId>commons</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
